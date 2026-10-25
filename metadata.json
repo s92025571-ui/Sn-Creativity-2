@@ -1,0 +1,6 @@
+{
+  "name": "SN Creativity",
+  "description": "Premium native Android creator studio featuring Gaming Studio, Voice & Script Studio, Thumbnail Prompt Studio, and Creator Toolkit with 3D animations and dual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
